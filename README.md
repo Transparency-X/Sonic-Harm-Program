@@ -1,5 +1,7 @@
 # Sonic Harm 🌊
 
+> **Sonic harm is expensive, unequally distributed, network-amplified, confidence-sensitive, and trauma-persistent. It cannot be solved by noise abatement alone. It requires a coordinated system of legal recognition, economic quantification, intersectional service design, offender prevention, and community resilience.**
+
 > **A victim-centred, evidence-based, and scalable framework for understanding, measuring, and responding to sonic harm across Ireland, Europe, and beyond.**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
